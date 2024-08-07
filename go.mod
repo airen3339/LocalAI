@@ -12,6 +12,7 @@ require (
 	github.com/charmbracelet/glamour v0.7.0
 	github.com/chasefleming/elem-go v0.26.0
 	github.com/containerd/containerd v1.7.19
+	github.com/dave-gray101/v2keyauth v0.0.0-20240624150259-c45d584d25e2
 	github.com/donomii/go-rwkv.cpp v0.0.0-20240228065144-661e7ae26d44
 	github.com/elliotchance/orderedmap/v2 v2.2.0
 	github.com/fsnotify/fsnotify v1.7.0
